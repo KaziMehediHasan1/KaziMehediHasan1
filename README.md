@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="360" src="https://i.ibb.co/F7mBYh0/Black-White-and-Yellow-Modern-Lines-Sale-Facebook-Cover.jpg"  />
+  <img height="300" src="https://i.ibb.co/F7mBYh0/Black-White-and-Yellow-Modern-Lines-Sale-Facebook-Cover.jpg"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/kazi-mehedihasan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="40" alt="linkedin logo"  />
   </a>
-  <a href="www.youtube.com/@learnwithmehedi1" target="_blank">
+  <a href="https://www.youtube.com/channel/UCkgYVWTFlTedSlbkQdh_Rqw" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="54" height="40" alt="youtube logo"  />
   </a>
   <a href="kazimehedihasan243@gmail.com" target="_blank">
