@@ -7,10 +7,10 @@ A passionate **Front-End Developer**
 
 ## 🌟 Skills  
 - **Programming Languages**: JavaScript, TypeScript  
-- **Backend Technologies**: MongoDB (MVC), Express, Node.js  
-- **Frontend Frameworks**: React, Next.js, Redux  
+- **Backend Technologies**: MongoDB (MVC), MySql, Express, Node.js  
+- **Frontend Frameworks**: React, Next.js 
 - **Styling**: Tailwind CSS, Figma  
-- **Others**: Firebase, RESTful APIs  
+- **Others**: Firebase, RESTful APIs, Redux, Postman, RTQ, JWT
 
 ---
 
