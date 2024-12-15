@@ -1,60 +1,54 @@
-<div align="center">
-  <img height="300" src="https://i.ibb.co/F7mBYh0/Black-White-and-Yellow-Modern-Lines-Sale-Facebook-Cover.jpg"  />
-</div>
+<img src="" alt="Profile Banner" style="width: 100%; max-height: 300px;" />
 
-###
+# 👋 Hello, I'm Kazi Mehedi Hasan  
+A passionate **Front-End Developer** 🚀  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kazi-mehedihasan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCkgYVWTFlTedSlbkQdh_Rqw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="54" height="40" alt="youtube logo"  />
-  </a>
-  <a href="kazimehedihasan243@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="40" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+## 🌟 Skills  
+- **Programming Languages**: JavaScript, TypeScript  
+- **Backend Technologies**: MongoDB (MVC), Express, Node.js  
+- **Frontend Frameworks**: React, Next.js, Redux  
+- **Styling**: Tailwind CSS, Figma  
+- **Others**: Firebase, RESTful APIs  
 
-<h1 align="center">Hello, I'm Kazi Mehedi Hasan</h1>
+---
 
-###
+## 🎯 Current Focus  
+Building full-stack **e-learning platforms** to enhance online education and interactive learning experiences.
 
-<h3 align="left">A Junior Frontend Web Application Developer From Feni,Bangladesh.</h3>
+---
 
-###
+## 📫 Reach Me  
+- 📧 Email: kazimehedihasan243@gmail.com  
+- 🌐 Portfolio: [kazi-mehedi-hasan.netlify.app](https://kazi-mehedi-hasan.netlify.app)  
+- 💼 LinkedIn: [Your LinkedIn](#)  
+- 💡 LeetCode: [Your LeetCode](#)  
 
-<p align="left">- I'm currently learning Advaced Next JS & MySQL</p>
+---
 
-###
+## 🚀 Featured Projects  
+### 1. [E-learning Platform](#)  
+- Built a comprehensive platform with **React**, **Redux**, and **MongoDB**.  
+- Includes interactive courses, user dashboards, and payment integrations.  
 
-<h3 align="left">Language and tools</h3>
+### 2. [Japanese Language Learning App](#)  
+- Focused on gamified learning with **TypeScript** and **Next.js**.  
+- Implements Kanji and grammar quiz features.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-</div>
+## 📊 GitHub Stats  
+![Kazi Mehedi Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🌐 Social Links  
+- 💼 [LinkedIn](#)  
+- 💡 [LeetCode](#)  
 
-###
+---
+
+## 💡  
+I love coding and solving real-world problems with technology, and I’m a huge fan of Next.js!  
