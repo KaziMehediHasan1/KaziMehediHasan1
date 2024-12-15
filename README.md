@@ -22,8 +22,7 @@ Building full-stack **e-learning platforms** to enhance online education and int
 ## 📫 Reach Me  
 - 📧 Email: kazimehedihasan243@gmail.com  
 - 🌐 Portfolio: [kazi-mehedi-hasan.netlify.app](https://kazi-mehedi-hasan.netlify.app)  
-- 💼 LinkedIn: [Your LinkedIn](#)  
-- 💡 LeetCode: [Your LeetCode](#)  
+
 
 ---
 
@@ -45,8 +44,8 @@ Building full-stack **e-learning platforms** to enhance online education and int
 ---
 
 ## 🌐 Social Links  
-- 💼 [LinkedIn](#)  
-- 💡 [LeetCode](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kazi-mehedihasan)  
+- 💡 [LeetCode](https://leetcode.com/u/Eyg7qECu5p)  
 
 ---
 
