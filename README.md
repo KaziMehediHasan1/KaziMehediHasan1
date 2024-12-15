@@ -1,7 +1,7 @@
 <img src="" alt="Profile Banner" style="width: 100%; max-height: 300px;" />
 
-# 👋 Hello, I'm Kazi Mehedi Hasan  
-A passionate **Front-End Developer** 🚀  
+# Hello, I'm Kazi Mehedi Hasan  
+A passionate **Front-End Developer** 
 
 ---
 
