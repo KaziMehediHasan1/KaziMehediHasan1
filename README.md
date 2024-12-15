@@ -45,9 +45,9 @@ Building full-stack **e-learning platforms** to enhance online education and int
 
 ## 🌐 Social Links  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kazi-mehedihasan)  
-- 💡 [LeetCode](https://leetcode.com/u/Eyg7qECu5p)  
+- 💻 [LeetCode](https://leetcode.com/u/Eyg7qECu5p)  
 
 ---
 
-## 💡  
+## 💡fan fact  
 I love coding and solving real-world problems with technology, and I’m a huge fan of Next.js!  
