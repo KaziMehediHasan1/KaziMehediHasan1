@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/f1tx6Yw/Brigitte-Schwartz-3.png" alt="Profile Banner" style="width: 100%; max-height: 300px;" />
+<img src="https://i.ibb.co.com/f1tx6Yw/Brigitte-Schwartz-3.png" alt="Profile Banner" style="width: 100%; max-height: 400px; minh-height:300" />
 
 # Hello, I'm Kazi Mehedi Hasan  
 A passionate **Front-End Developer** 
