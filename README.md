@@ -1,5 +1,5 @@
-<h1 align="center">Hello! I'm [Your Name] 👋</h1>
-<p align="center"><i>I do open source :)</i></p>
+<h1 align="center">Hello! I'm Kazi Mehedi Hasan 👋</h1>
+<!-- <p align="center"><i>I do open source :)</i></p> -->
 
 ## 🚀 About Me  
 - 🔭 MERN Stack Developer | Passionate about **scalable web applications**  
