@@ -1,53 +1,29 @@
-<img src="https://i.ibb.co.com/f1tx6Yw/Brigitte-Schwartz-3.png" alt="Profile Banner" style="width: 100%; max-height: 650px;" />
+<h1 align="center">Hello! I'm [Your Name] 👋</h1>
+<p align="center"><i>I do open source :)</i></p>
 
-# Hello, I'm Kazi Mehedi Hasan  
-A passionate **Front-End Developer** 
+## 🚀 About Me  
+- 🔭 MERN Stack Developer | Passionate about **scalable web applications**  
+- 💡 Quick learner, always exploring new technologies  
+- 🛠️ Building **cool projects & open-source tools**  
+- 📫 Reach me at **[your email]**  
 
----
-
-## 🌟 Skills  
-- **Programming Languages**: JavaScript, TypeScript  
-- **Backend Technologies**: MongoDB (MVC), MySql, Express, Node.js  
-- **Frontend Frameworks**: React, Next.js 
-- **Styling**: Tailwind CSS, Figma  
-- **Others**: Firebase, RESTful APIs, Redux, Postman, RTQ, JWT
-
----
-
-## 🎯 Current Focus  
-Building full-stack **e-learning platforms** to enhance online education and interactive learning experiences.
-
----
-
-## 📫 Reach Me  
-- 📧 Email: kazimehedihasan243@gmail.com  
-- 🌐 Portfolio: [kazi-mehedi-hasan.netlify.app](https://kazi-mehedi-hasan.netlify.app)  
-
-
----
-
-## 🚀 Featured Projects  
-### 1. [E-learning Platform](#)  
-- Built a comprehensive platform with **React**, **Redux**, and **MongoDB**.  
-- Includes interactive courses, user dashboards, and payment integrations.  
-
-### 2. [Japanese Language Learning App](#)  
-- Focused on gamified learning with **TypeScript** and **Next.js**.  
-- Implements Kanji and grammar quiz features.
-
----
+## 💻 Tech Stack  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
 
 ## 📊 GitHub Stats  
-![Kazi Mehedi Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="150">
+</p>
 
----
-
-## 🌐 Social Links  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kazi-mehedihasan)  
-- 💻 [LeetCode](https://leetcode.com/u/Eyg7qECu5p)  
-
----
-
-## 💡fan fact  
-I love coding and solving real-world problems with technology, and I’m a huge fan of Next.js!  
+## 🔗 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)  
