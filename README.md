@@ -5,7 +5,7 @@
 - 🔭 MERN Stack Developer | Passionate about **scalable web applications**  
 - 💡 Quick learner, always exploring new technologies  
 - 🛠️ Building **cool projects & open-source tools**  
-- 📫 Reach me at **kazimehedihasan243@gmail.com**  
+- 📫 Reach me at kazimehedihasan243@gmail.com
 
 ## 💻 Tech Stack  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
