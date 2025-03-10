@@ -1,38 +1,52 @@
-<h1 align="center">Hello! I'm Kazi Mehedi Hasan 👋</h1>
-<!-- <p align="center"><i>I do open source :)</i></p> -->
+<h1 align="start">Hello! I'm Kazi Mehedi Hasan 👋</h1>
+<p align="start">I'm a self-taught passionate Front End Developer from Bangladesh</p>
 
-## 🚀 About Me  
+#### 👨‍💻 About Me  
 - 🔭 MERN Stack Developer | Passionate about **scalable web applications**  
 - 💡 Quick learner, always exploring new technologies  
-- 🛠️ Building **cool projects & open-source tools**  
-- 📫 Reach me at kazimehedihasan243@gmail.com
+- 🎯 Currently working at **Softvance** as a MERN Stack Developer   
+- 📚 Love to **learn & implement** the latest web technologies 
 
-## 💻 Tech Stack  
-## 💻 Tech Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)  
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white)  
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=api&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)  
-
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazimehedihasan1&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazimehedihasan1&theme=tokyonight" height="150">
+#### 🖥️ Tech Stack  
+<p align="center start">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white">
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=api&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/GSAP-88B0A7?style=flat&logo=gsap&logoColor=white">
+  <img src="https://img.shields.io/badge/Framer_Motion-0F1B3B?style=flat&logo=framer&logoColor=white">
 </p>
 
-## 🔗 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)  
+#### 📊 GitHub Stats  
+<p align="center start">
+  <img src="https://github-readme-stats.vercel.app/api?username=kazimehedihasan1&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimehedihasan1&layout=compact&theme=tokyonight" height="150">
+</p>
+
+#### 📫 Contact Me  
+<p align="center start">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=firefox&logoColor=white">
+  </a>
+  <a href="tel:+1234567890">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=flat&logo=whatsapp&logoColor=white">
+  </a>
+</p>
+  
