@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/GSAP-88B0A7?style=flat&logo=gsap&logoColor=white">
+  <img src="https://img.shields.io/badge/Framer_Motion-0F1B3B?style=flat&logo=framer&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white">
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=api&logoColor=white">
@@ -25,8 +27,7 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
-  <img src="https://img.shields.io/badge/GSAP-88B0A7?style=flat&logo=gsap&logoColor=white">
-  <img src="https://img.shields.io/badge/Framer_Motion-0F1B3B?style=flat&logo=framer&logoColor=white">
+
 </p>
 
 #### 📊 GitHub Stats  
