@@ -3,9 +3,9 @@
 <p align="start">I'm a self-taught passionate Front End Developer from Bangladesh</p>
 
 #### 👨‍💻 About Me  
-- 🔭 MERN Stack Developer | Passionate about **scalable web applications**  
+- 🔭 FrontEnd Developer | Passionate about **scalable web applications**  
 - 💡 Quick learner, always exploring new technologies  
-- 🎯 Currently working at **Softvance** as a MERN Stack Developer   
+- 🎯 Currently working at **Softvance** as a FrontEnd Developer   
 - 📚 Love to **learn & implement** the latest web technologies 
 
 #### 🖥️ Tech Stack  
