@@ -5,7 +5,7 @@
 #### 👨‍💻 About Me  
 - 🔭 FrontEnd Developer | Passionate about **scalable web applications**  
 - 💡 Quick learner, always exploring new technologies  
-- 🎯 Currently working at **Softvance** as a (MERN) FrontEnd Developer   
+- 🎯 Currently working at **Softvance** as a MERN Stack Developer   
 - 📚 Love to **learn & implement** the latest web technologies 
 
 #### 🖥️ Tech Stack  
