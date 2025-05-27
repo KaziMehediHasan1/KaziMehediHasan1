@@ -1,9 +1,9 @@
 <h1 align="start">Hello! I'm Kazi Mehedi Hasan 👋</h1>
 
-<p align="start">I'm a self-taught passionate Front End Developer from Bangladesh</p>
+<p align="start">I'm a self-taught passionate Full Stack Developer from Bangladesh</p>
 
 #### 👨‍💻 About Me  
-- 🔭 FrontEnd Developer | Passionate about **scalable web applications**  
+- 🔭 Full Stack Developer | Passionate about **scalable web applications**  
 - 💡 Quick learner, always exploring new technologies  
 - 🎯 Currently working as a Full Stack Developer(MERN)   
 - 📚 Love to **learn & implement** the latest web technologies 
