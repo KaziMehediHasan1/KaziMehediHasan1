@@ -34,8 +34,8 @@
 
 #### 📊 GitHub Stats  
 <p align="center start">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazimehedihasan1&show_icons=true&theme=tokyonight" height="200" width="300">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimehedihasan1&layout=compact&theme=tokyonight" height="200" width="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=kazimehedihasan1&show_icons=true&theme=tokyonight" height="250" width="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimehedihasan1&layout=compact&theme=tokyonight" height="250" width="300">
 </p>
 
 #### 📫 Contact Me  
