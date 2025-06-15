@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/GSAP-88B0A7?style=flat&logo=gsap&logoColor=white">
   <img src="https://img.shields.io/badge/Framer_Motion-0F1B3B?style=flat&logo=framer&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white">
@@ -35,7 +35,7 @@
 #### 📊 GitHub Stats  
 <p align="center start">
   <img src="https://github-readme-stats.vercel.app/api?username=kazimehedihasan1&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimehedihasan1&layout=compact&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimehedihasan1&layout=compact&theme=tokyonight" height="150" width="250">
 </p>
 
 #### 📫 Contact Me  
