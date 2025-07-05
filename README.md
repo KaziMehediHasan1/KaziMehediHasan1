@@ -33,7 +33,7 @@
 </p>
 
 #### 📊 GitHub Stats  
-<div align="center" style="display: flex; gap: 10px">
+<div style="display: flex; gap: 10px">
   <img src="https://github-readme-stats.vercel.app/api?username=kazimehedihasan1&show_icons=true&theme=tokyonight" style="width: 300px; height: 165px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimehedihasan1&layout=compact&theme=tokyonight" style="width: 300px; height: 165px;" />
 </div>
