@@ -39,10 +39,9 @@
 </p>
 
 
-#### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazimehedihasan1&theme=tokyonight" width="100%" alt="GitHub Streak" />
-</p>
+📈 Detailed Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kazimehedihasan1&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimehedihasan1&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazimehedihasan1&theme=tokyonight" width="100%" alt="GitHub Streak" /> </p>
 
 #### 📫 Contact Me  
 <p align="center start">
