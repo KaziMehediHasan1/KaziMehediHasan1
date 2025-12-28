@@ -40,7 +40,7 @@
 
 
 📈 Detailed Statistics
-<p align="center"> 
+<p align=""> 
   <img src="https://github-readme-stats.vercel.app/api?username=kazimehedihasan1&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimehedihasan1&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" /> 
 </p>
