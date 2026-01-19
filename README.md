@@ -42,7 +42,7 @@
 📈 Detailed Statistics
 <p> 
   <img src="https://github-readme-stats.vercel.app/api?username=kazimehedihasan1&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" width="48%" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimehedihasan1&layout=compact&theme=tokyonight&hide_border=false" width="41.5%" alt="Top Languages" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimehedihasan1&layout=compact&theme=tokyonight&hide_border=false" width="36.5%" alt="Top Languages" /> 
 </p>
 
 
