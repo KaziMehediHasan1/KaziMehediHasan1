@@ -40,9 +40,9 @@
 
 
 📈 Detailed Statistics
-<p align=""> 
-  <img src="https://github-readme-stats.vercel.app/api?username=kazimehedihasan1&show_icons=true&theme=tokyonight&count_private=true" width="35%" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimehedihasan1&layout=compact&theme=tokyonight" width="40%" alt="Top Languages" /> 
+<p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=kazimehedihasan1&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" width="48%" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimehedihasan1&layout=compact&theme=tokyonight&hide_border=false" width="41.5%" alt="Top Languages" /> 
 </p>
 
 
